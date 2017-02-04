@@ -1,0 +1,7 @@
+{
+    "name": "antoinekociuba/antoinek_mediachooserfield",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
